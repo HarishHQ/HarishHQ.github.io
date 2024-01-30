@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+#heading, #heading span {
+    font-size: 4rem;
+    text-align: center;
+}
+
+#heading span {
+    color:darkblue;
+}
